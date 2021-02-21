@@ -19,19 +19,10 @@ router.post("/notes", function(req, res) {
             return console.log(err);
         }
         const notes = JSON.parse(data);
-        const newNoteArr = [];
-
+        req.body.id = notes.length.toString();
         notes.push(req.body);
 
-        for(let i=0; i<notes.length; i++) {
-            const note = {
-                title: notes[i].title,
-                text: notes[i].text,
-                id: i
-            };
-            newNoteArr.push(note);
-        }
-        fs.writeFile(path.join(__dirname, "../db/db.json"), JSON.stringify(newNoteArr, null, 2), (err) => {
+        fs.writeFile(path.join(__dirname, "../db/db.json"), JSON.stringify(notes, null, 2), (err) => {
             if (err) {
                 return console.log(err);
             }
@@ -41,6 +32,7 @@ router.post("/notes", function(req, res) {
     })
 });
 
+// Function to delete saved notes
 router.delete("/notes/:id", function(req, res) {
     const id = parseInt(req.params.id);
 
