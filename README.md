@@ -6,8 +6,6 @@
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Live project](#Live-project)
 * [GitHub Repository](#GitHub-Repository)
-* [Installation](#Installation)
-* [Usage](#Usage)
 * [Contributing](#Contributing)
 * [License](#License)
 
@@ -26,7 +24,7 @@ This project creates an application that can be used to write and save notes. Th
 * Heroku
 
 Please find how to navigate the application.  
-![Navigation](/assets/images/Noter-taker.gif "Navigation")
+![Note-taker](/assets/images/Noter-taker.gif "Note-taker")
 
 ## User Story
 
@@ -36,7 +34,7 @@ Please find how to navigate the application.
     AS A small business owner
     I WANT to be able to write and save notes
     SO THAT I can organize my thoughts and keep track of tasks I need to complete
-</details
+</details>
 
 ## Acceptance Criteria
 
@@ -56,10 +54,10 @@ Please find how to navigate the application.
     THEN that note appears in the right-hand column
     WHEN I click on the Write icon in the navigation at the top of the page
     THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
-</details
+</details>
 
 ## Live project
-The live project is deployed in Heroku.
+The live project is deployed in Heroku.  
 Deployed Application URL : https://thawing-badlands-17825.herokuapp.com/
 
 ## GitHub Repository
