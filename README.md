@@ -1,10 +1,12 @@
 # Note Taker
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://choosealicense.com/licenses/mit/) 
 
 ## Table of Contents
 * [Description](#Description)
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Live project](#Live-project)
+* [Installation & Usage](#Installation)
 * [GitHub Repository](#GitHub-Repository)
 * [Contributing](#Contributing)
 * [License](#License)
@@ -59,6 +61,18 @@ Please find how to navigate the application.
 ## Live project
 The live project is deployed in Heroku.  
 Deployed Application URL : https://thawing-badlands-17825.herokuapp.com/
+
+## Installation & Usage
+In order to run the application in you local, follow the steps
+* Download the codes from repo
+* In the terminal navigate to the local repo 
+* To install dependencies, run `npm install`
+* To start the application, run `npm start`
+* In the browser go to http://localhost:3001
+* To exit running of server, type Ctrl+C in terminal
+
+* Alternatively, visit the [Live project](https://thawing-badlands-17825.herokuapp.com/)
+* In this case, the data is stored in remote server and it's persistence cannot be guarenteed.
 
 ## GitHub Repository
 The project's repo link: https://github.com/rosefrancis-tech/note-taker
