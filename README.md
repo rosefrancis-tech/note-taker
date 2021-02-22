@@ -6,7 +6,7 @@
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Live project](#Live-project)
-* [Installation & Usage](#Installation-&-Usage)
+* [Installation](#Installation)
 * [GitHub Repository](#GitHub-Repository)
 * [Contributing](#Contributing)
 * [License](#License)
@@ -62,7 +62,7 @@ Please find how to navigate the application.
 The live project is deployed in Heroku.  
 Deployed Application URL : https://thawing-badlands-17825.herokuapp.com/
 
-## Installation & Usage
+## Installation
 In order to run the application in you local, follow the steps
 * Download the codes from repo
 * In the terminal navigate to the local repo 
