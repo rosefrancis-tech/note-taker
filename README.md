@@ -24,7 +24,7 @@ This project creates an application that can be used to write and save notes. Th
 * Heroku
 
 Please find how to navigate the application.  
-![Note-taker](/assets/images/Noter-taker.gif "Note-taker")
+![Note-taker](/assets/images/Note-taker.gif "Note-taker navigation")
 
 ## User Story
 
