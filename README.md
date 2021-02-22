@@ -6,7 +6,7 @@
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Live project](#Live-project)
-* [Installation & Usage](#Installation)
+* [Installation & Usage](#Installation-&-Usage)
 * [GitHub Repository](#GitHub-Repository)
 * [Contributing](#Contributing)
 * [License](#License)
@@ -70,15 +70,15 @@ In order to run the application in you local, follow the steps
 * To start the application, run `npm start`
 * In the browser go to http://localhost:3001
 * To exit running of server, type Ctrl+C in terminal  
-    
-* Alternatively, visit the [Live project](https://thawing-badlands-17825.herokuapp.com/)
+
+Alternatively, visit the [Live project](https://thawing-badlands-17825.herokuapp.com/)
 * In this case, the data is stored in remote server and it's persistence cannot be guarenteed.
 
 ## GitHub Repository
 The project's repo link: https://github.com/rosefrancis-tech/note-taker
 
 ## Contributing
-Contributions welcome.
+Contributions welcome.  
 Please note that this project is released with a [Contributor Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/ "contributor-covenant.org"). By participating in this project you agree to abide by its terms.
 
 ## License   
