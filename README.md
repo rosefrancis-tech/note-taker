@@ -69,7 +69,7 @@ In order to run the application in you local, follow the steps
 * To install dependencies, run `npm install`
 * To start the application, run `npm start`
 * In the browser go to http://localhost:3001
-* To exit running of server, type Ctrl+C in terminal  
+* To exit running of server, type `Ctrl+C` in terminal  
 
 Alternatively, visit the [Live project](https://thawing-badlands-17825.herokuapp.com/)
 * In this case, the data is stored in remote server and it's persistence cannot be guarenteed.
